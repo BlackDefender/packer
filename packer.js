@@ -1,3 +1,4 @@
+// https://github.com/BlackDefender/packer
 /*
 Using:
 node packer.js
