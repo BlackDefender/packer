@@ -2,7 +2,7 @@
 /*
 Using:
 node packer.js
-node packer.js -- watch
+node packer.js --watch
 
 options: --watch --min
 options: -w -m
